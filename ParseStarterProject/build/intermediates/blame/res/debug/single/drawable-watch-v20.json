@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/2d1b6f1725909665e673aec127a5c3b5a30efe5e/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/2d1b6f1725909665e673aec127a5c3b5a30efe5e/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/2d1b6f1725909665e673aec127a5c3b5a30efe5e/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

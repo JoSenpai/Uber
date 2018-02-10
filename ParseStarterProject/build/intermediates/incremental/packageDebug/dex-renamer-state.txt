@@ -1,0 +1,7 @@
+#Mon Dec 11 16:14:11 AEDT 2017
+base.0=/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9fb2d8059ebf1d620c075dcc99c24791688c94b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4331994e8e9ab36c0e6069f1b906237347410292/classes.dex
+base.1=/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4331994e8e9ab36c0e6069f1b906237347410292
+file.0=/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9fb2d8059ebf1d620c075dcc99c24791688c94b1/classes.dex

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/feed073931731a293aaa0af7592bde4bd5778672/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/feed073931731a293aaa0af7592bde4bd5778672/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/feed073931731a293aaa0af7592bde4bd5778672/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/feed073931731a293aaa0af7592bde4bd5778672/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/918ee7c00f9b8ece2a41a0d1ae8a6e6973c35a90/output/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4331994e8e9ab36c0e6069f1b906237347410292/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="140ea8aefffb51ec040d3109711dbcf3adb7e1ee">
+        <dex dex="/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9fb2d8059ebf1d620c075dcc99c24791688c94b1/classes.dex" />
+    </item>
+
+</items>

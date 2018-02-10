@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/278bf1c418aa798bd228f34832b42ee7f224b81d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/278bf1c418aa798bd228f34832b42ee7f224b81d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/278bf1c418aa798bd228f34832b42ee7f224b81d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/feed073931731a293aaa0af7592bde4bd5778672/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

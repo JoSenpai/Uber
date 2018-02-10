@@ -1,0 +1,4 @@
+#Sat Dec 09 13:04:02 AEDT 2017
+base.0=/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

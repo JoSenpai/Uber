@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/9c097505648a04000680805df998d5a7a89791be/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/jonathanyong/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/jonathanyong/.android/build-cache/9c097505648a04000680805df998d5a7a89791be/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]
